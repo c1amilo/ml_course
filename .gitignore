@@ -1,4 +1,4 @@
-kaggle.json
+*.json
 .venv/
 melbourne-housing-snapshot/
 test*
